@@ -1,0 +1,15 @@
+{"time":"2024-12-03T22:01:24.4026189+09:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-03T22:01:24.4026189+09:00","level":"INFO","msg":"created symlink","path":"D:\\DevWorkSpace\\YOLOV8-T1\\wandb\\offline-run-20241203_220124-nppdcb3w\\logs\\debug-core.log"}
+{"time":"2024-12-03T22:01:24.5314861+09:00","level":"INFO","msg":"created new stream","id":"nppdcb3w"}
+{"time":"2024-12-03T22:01:24.5314861+09:00","level":"INFO","msg":"stream: started","id":"nppdcb3w"}
+{"time":"2024-12-03T22:01:24.5314861+09:00","level":"INFO","msg":"handler: started","stream_id":"nppdcb3w"}
+{"time":"2024-12-03T22:01:24.5314861+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"nppdcb3w"}
+{"time":"2024-12-03T22:01:24.5319978+09:00","level":"INFO","msg":"sender: started","stream_id":"nppdcb3w"}
+{"time":"2024-12-03T22:01:24.5409507+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-03T22:01:28.478233+09:00","level":"INFO","msg":"stream: closing","id":"nppdcb3w"}
+{"time":"2024-12-03T22:01:28.478233+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-03T22:01:28.478233+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-03T22:01:28.478233+09:00","level":"INFO","msg":"handler: closed","stream_id":"nppdcb3w"}
+{"time":"2024-12-03T22:01:28.478233+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"nppdcb3w"}
+{"time":"2024-12-03T22:01:28.4788078+09:00","level":"INFO","msg":"sender: closed","stream_id":"nppdcb3w"}
+{"time":"2024-12-03T22:01:28.4788078+09:00","level":"INFO","msg":"stream: closed","id":"nppdcb3w"}

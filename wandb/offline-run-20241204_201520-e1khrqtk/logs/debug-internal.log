@@ -1,0 +1,15 @@
+{"time":"2024-12-04T20:15:20.2865788+09:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-04T20:15:20.2865788+09:00","level":"INFO","msg":"created symlink","path":"D:\\DevWorkSpace\\YOLOV8-T1\\wandb\\offline-run-20241204_201520-e1khrqtk\\logs\\debug-core.log"}
+{"time":"2024-12-04T20:15:20.4175119+09:00","level":"INFO","msg":"created new stream","id":"e1khrqtk"}
+{"time":"2024-12-04T20:15:20.4175119+09:00","level":"INFO","msg":"stream: started","id":"e1khrqtk"}
+{"time":"2024-12-04T20:15:20.4175119+09:00","level":"INFO","msg":"handler: started","stream_id":"e1khrqtk"}
+{"time":"2024-12-04T20:15:20.4175119+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"e1khrqtk"}
+{"time":"2024-12-04T20:15:20.4175119+09:00","level":"INFO","msg":"sender: started","stream_id":"e1khrqtk"}
+{"time":"2024-12-04T20:15:20.4236593+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-04T20:31:00.712371+09:00","level":"INFO","msg":"stream: closing","id":"e1khrqtk"}
+{"time":"2024-12-04T20:31:00.712371+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-04T20:31:00.712371+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-04T20:31:00.7134406+09:00","level":"INFO","msg":"handler: closed","stream_id":"e1khrqtk"}
+{"time":"2024-12-04T20:31:00.7134406+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"e1khrqtk"}
+{"time":"2024-12-04T20:31:00.7134406+09:00","level":"INFO","msg":"sender: closed","stream_id":"e1khrqtk"}
+{"time":"2024-12-04T20:31:00.7134406+09:00","level":"INFO","msg":"stream: closed","id":"e1khrqtk"}

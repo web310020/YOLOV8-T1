@@ -1,0 +1,15 @@
+{"time":"2024-12-05T19:58:10.6613792+09:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-05T19:58:10.6613792+09:00","level":"INFO","msg":"created symlink","path":"D:\\DevWorkSpace\\YOLOV8-T1\\wandb\\offline-run-20241205_195810-wfrv8unq\\logs\\debug-core.log"}
+{"time":"2024-12-05T19:58:10.7919909+09:00","level":"INFO","msg":"created new stream","id":"wfrv8unq"}
+{"time":"2024-12-05T19:58:10.7919909+09:00","level":"INFO","msg":"stream: started","id":"wfrv8unq"}
+{"time":"2024-12-05T19:58:10.7919909+09:00","level":"INFO","msg":"handler: started","stream_id":"wfrv8unq"}
+{"time":"2024-12-05T19:58:10.7919909+09:00","level":"INFO","msg":"sender: started","stream_id":"wfrv8unq"}
+{"time":"2024-12-05T19:58:10.7919909+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"wfrv8unq"}
+{"time":"2024-12-05T19:58:10.7993399+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-05T19:58:11.2652566+09:00","level":"INFO","msg":"stream: closing","id":"wfrv8unq"}
+{"time":"2024-12-05T19:58:11.2652566+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-05T19:58:11.2652566+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-05T19:58:11.2658398+09:00","level":"INFO","msg":"handler: closed","stream_id":"wfrv8unq"}
+{"time":"2024-12-05T19:58:11.2658398+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"wfrv8unq"}
+{"time":"2024-12-05T19:58:11.2658398+09:00","level":"INFO","msg":"sender: closed","stream_id":"wfrv8unq"}
+{"time":"2024-12-05T19:58:11.2658398+09:00","level":"INFO","msg":"stream: closed","id":"wfrv8unq"}

@@ -1,0 +1,15 @@
+{"time":"2024-12-02T20:10:29.8065043+09:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-02T20:10:29.8071174+09:00","level":"INFO","msg":"created symlink","path":"D:\\DevWorkSpace\\YOLOV8-T1\\wandb\\offline-run-20241202_201029-65uo34sr\\logs\\debug-core.log"}
+{"time":"2024-12-02T20:10:29.9363553+09:00","level":"INFO","msg":"created new stream","id":"65uo34sr"}
+{"time":"2024-12-02T20:10:29.9363553+09:00","level":"INFO","msg":"stream: started","id":"65uo34sr"}
+{"time":"2024-12-02T20:10:29.9363553+09:00","level":"INFO","msg":"handler: started","stream_id":"65uo34sr"}
+{"time":"2024-12-02T20:10:29.9363553+09:00","level":"INFO","msg":"sender: started","stream_id":"65uo34sr"}
+{"time":"2024-12-02T20:10:29.9363553+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"65uo34sr"}
+{"time":"2024-12-02T20:10:29.9423247+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-02T20:10:51.2651352+09:00","level":"INFO","msg":"stream: closing","id":"65uo34sr"}
+{"time":"2024-12-02T20:10:51.2651352+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-02T20:10:51.2651352+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-02T20:10:51.2656374+09:00","level":"INFO","msg":"handler: closed","stream_id":"65uo34sr"}
+{"time":"2024-12-02T20:10:51.2656374+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"65uo34sr"}
+{"time":"2024-12-02T20:10:51.2656374+09:00","level":"INFO","msg":"sender: closed","stream_id":"65uo34sr"}
+{"time":"2024-12-02T20:10:51.2656374+09:00","level":"INFO","msg":"stream: closed","id":"65uo34sr"}

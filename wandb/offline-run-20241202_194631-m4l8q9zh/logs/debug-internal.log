@@ -1,0 +1,10 @@
+{"time":"2024-12-02T19:46:31.7989786+09:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-02T19:46:31.7989786+09:00","level":"INFO","msg":"created symlink","path":"D:\\DevWorkSpace\\YOLOV8-T1\\wandb\\offline-run-20241202_194631-m4l8q9zh\\logs\\debug-core.log"}
+{"time":"2024-12-02T19:46:31.9244851+09:00","level":"INFO","msg":"created new stream","id":"m4l8q9zh"}
+{"time":"2024-12-02T19:46:31.925087+09:00","level":"INFO","msg":"stream: started","id":"m4l8q9zh"}
+{"time":"2024-12-02T19:46:31.9244851+09:00","level":"INFO","msg":"handler: started","stream_id":"m4l8q9zh"}
+{"time":"2024-12-02T19:46:31.925087+09:00","level":"INFO","msg":"sender: started","stream_id":"m4l8q9zh"}
+{"time":"2024-12-02T19:46:31.925087+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"m4l8q9zh"}
+{"time":"2024-12-02T19:46:31.9302879+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-02T19:46:41.9363568+09:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 24708"}
+{"time":"2024-12-02T19:48:31.9307158+09:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}

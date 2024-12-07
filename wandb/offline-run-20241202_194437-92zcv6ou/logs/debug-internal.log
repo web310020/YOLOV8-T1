@@ -1,0 +1,9 @@
+{"time":"2024-12-02T19:44:37.5149154+09:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-02T19:44:37.5149154+09:00","level":"INFO","msg":"created symlink","path":"D:\\DevWorkSpace\\YOLOV8-T1\\wandb\\offline-run-20241202_194437-92zcv6ou\\logs\\debug-core.log"}
+{"time":"2024-12-02T19:44:37.6432204+09:00","level":"INFO","msg":"created new stream","id":"92zcv6ou"}
+{"time":"2024-12-02T19:44:37.6432204+09:00","level":"INFO","msg":"stream: started","id":"92zcv6ou"}
+{"time":"2024-12-02T19:44:37.6432204+09:00","level":"INFO","msg":"handler: started","stream_id":"92zcv6ou"}
+{"time":"2024-12-02T19:44:37.6432204+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"92zcv6ou"}
+{"time":"2024-12-02T19:44:37.6432204+09:00","level":"INFO","msg":"sender: started","stream_id":"92zcv6ou"}
+{"time":"2024-12-02T19:44:37.6502565+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-02T19:45:17.6571784+09:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 26540"}

@@ -1,0 +1,15 @@
+{"time":"2024-12-02T20:43:55.3343913+09:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-02T20:43:55.3343913+09:00","level":"INFO","msg":"created symlink","path":"D:\\DevWorkSpace\\YOLOV8-T1\\wandb\\offline-run-20241202_204355-bse3i74z\\logs\\debug-core.log"}
+{"time":"2024-12-02T20:43:55.4647683+09:00","level":"INFO","msg":"created new stream","id":"bse3i74z"}
+{"time":"2024-12-02T20:43:55.4647683+09:00","level":"INFO","msg":"stream: started","id":"bse3i74z"}
+{"time":"2024-12-02T20:43:55.4647683+09:00","level":"INFO","msg":"handler: started","stream_id":"bse3i74z"}
+{"time":"2024-12-02T20:43:55.4647683+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"bse3i74z"}
+{"time":"2024-12-02T20:43:55.4647683+09:00","level":"INFO","msg":"sender: started","stream_id":"bse3i74z"}
+{"time":"2024-12-02T20:43:55.4752435+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-02T20:59:17.6217104+09:00","level":"INFO","msg":"stream: closing","id":"bse3i74z"}
+{"time":"2024-12-02T20:59:17.6217104+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-02T20:59:17.6223936+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-02T20:59:17.6223936+09:00","level":"INFO","msg":"handler: closed","stream_id":"bse3i74z"}
+{"time":"2024-12-02T20:59:17.6223936+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"bse3i74z"}
+{"time":"2024-12-02T20:59:17.6223936+09:00","level":"INFO","msg":"sender: closed","stream_id":"bse3i74z"}
+{"time":"2024-12-02T20:59:17.6223936+09:00","level":"INFO","msg":"stream: closed","id":"bse3i74z"}

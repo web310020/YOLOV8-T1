@@ -1,0 +1,8 @@
+{"time":"2024-12-02T21:02:28.7993402+09:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-02T21:02:28.7993402+09:00","level":"INFO","msg":"created symlink","path":"D:\\DevWorkSpace\\YOLOV8-T1\\wandb\\offline-run-20241202_210228-78pjn6wt\\logs\\debug-core.log"}
+{"time":"2024-12-02T21:02:28.9276313+09:00","level":"INFO","msg":"created new stream","id":"78pjn6wt"}
+{"time":"2024-12-02T21:02:28.9276313+09:00","level":"INFO","msg":"stream: started","id":"78pjn6wt"}
+{"time":"2024-12-02T21:02:28.9276313+09:00","level":"INFO","msg":"handler: started","stream_id":"78pjn6wt"}
+{"time":"2024-12-02T21:02:28.9276313+09:00","level":"INFO","msg":"sender: started","stream_id":"78pjn6wt"}
+{"time":"2024-12-02T21:02:28.9276313+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"78pjn6wt"}
+{"time":"2024-12-02T21:02:28.9332106+09:00","level":"INFO","msg":"Starting system monitor"}

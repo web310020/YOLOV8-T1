@@ -1,0 +1,15 @@
+{"time":"2024-12-02T20:27:20.853574+09:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-02T20:27:20.853574+09:00","level":"INFO","msg":"created symlink","path":"D:\\DevWorkSpace\\YOLOV8-T1\\wandb\\offline-run-20241202_202720-jtor37ka\\logs\\debug-core.log"}
+{"time":"2024-12-02T20:27:20.9836403+09:00","level":"INFO","msg":"created new stream","id":"jtor37ka"}
+{"time":"2024-12-02T20:27:20.9836403+09:00","level":"INFO","msg":"stream: started","id":"jtor37ka"}
+{"time":"2024-12-02T20:27:20.9836403+09:00","level":"INFO","msg":"handler: started","stream_id":"jtor37ka"}
+{"time":"2024-12-02T20:27:20.9836403+09:00","level":"INFO","msg":"sender: started","stream_id":"jtor37ka"}
+{"time":"2024-12-02T20:27:20.9836403+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"jtor37ka"}
+{"time":"2024-12-02T20:27:20.9908002+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-02T20:27:33.9607256+09:00","level":"INFO","msg":"stream: closing","id":"jtor37ka"}
+{"time":"2024-12-02T20:27:33.9607256+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-02T20:27:33.961227+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-02T20:27:33.961227+09:00","level":"INFO","msg":"handler: closed","stream_id":"jtor37ka"}
+{"time":"2024-12-02T20:27:33.961227+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"jtor37ka"}
+{"time":"2024-12-02T20:27:33.961227+09:00","level":"INFO","msg":"sender: closed","stream_id":"jtor37ka"}
+{"time":"2024-12-02T20:27:33.961227+09:00","level":"INFO","msg":"stream: closed","id":"jtor37ka"}

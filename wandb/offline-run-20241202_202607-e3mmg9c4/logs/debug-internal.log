@@ -1,0 +1,15 @@
+{"time":"2024-12-02T20:26:07.1151127+09:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-02T20:26:07.1151127+09:00","level":"INFO","msg":"created symlink","path":"D:\\DevWorkSpace\\YOLOV8-T1\\wandb\\offline-run-20241202_202607-e3mmg9c4\\logs\\debug-core.log"}
+{"time":"2024-12-02T20:26:07.2439771+09:00","level":"INFO","msg":"created new stream","id":"e3mmg9c4"}
+{"time":"2024-12-02T20:26:07.2439771+09:00","level":"INFO","msg":"stream: started","id":"e3mmg9c4"}
+{"time":"2024-12-02T20:26:07.2439771+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"e3mmg9c4"}
+{"time":"2024-12-02T20:26:07.2439771+09:00","level":"INFO","msg":"sender: started","stream_id":"e3mmg9c4"}
+{"time":"2024-12-02T20:26:07.2439771+09:00","level":"INFO","msg":"handler: started","stream_id":"e3mmg9c4"}
+{"time":"2024-12-02T20:26:07.2509463+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-02T20:26:11.0436569+09:00","level":"INFO","msg":"stream: closing","id":"e3mmg9c4"}
+{"time":"2024-12-02T20:26:11.0436569+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-02T20:26:11.0443926+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-02T20:26:11.0443926+09:00","level":"INFO","msg":"handler: closed","stream_id":"e3mmg9c4"}
+{"time":"2024-12-02T20:26:11.0443926+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"e3mmg9c4"}
+{"time":"2024-12-02T20:26:11.0443926+09:00","level":"INFO","msg":"sender: closed","stream_id":"e3mmg9c4"}
+{"time":"2024-12-02T20:26:11.0443926+09:00","level":"INFO","msg":"stream: closed","id":"e3mmg9c4"}

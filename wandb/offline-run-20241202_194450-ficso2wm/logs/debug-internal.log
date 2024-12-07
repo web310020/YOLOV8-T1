@@ -1,0 +1,10 @@
+{"time":"2024-12-02T19:44:50.93004+09:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-02T19:44:50.93004+09:00","level":"INFO","msg":"created symlink","path":"D:\\DevWorkSpace\\YOLOV8-T1\\wandb\\offline-run-20241202_194450-ficso2wm\\logs\\debug-core.log"}
+{"time":"2024-12-02T19:44:51.0567224+09:00","level":"INFO","msg":"created new stream","id":"ficso2wm"}
+{"time":"2024-12-02T19:44:51.0572359+09:00","level":"INFO","msg":"stream: started","id":"ficso2wm"}
+{"time":"2024-12-02T19:44:51.0567224+09:00","level":"INFO","msg":"handler: started","stream_id":"ficso2wm"}
+{"time":"2024-12-02T19:44:51.0572359+09:00","level":"INFO","msg":"sender: started","stream_id":"ficso2wm"}
+{"time":"2024-12-02T19:44:51.0572359+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"ficso2wm"}
+{"time":"2024-12-02T19:44:51.0691916+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-02T19:45:11.0747098+09:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 552"}
+{"time":"2024-12-02T19:45:21.0692435+09:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}

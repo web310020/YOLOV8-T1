@@ -1,0 +1,15 @@
+{"time":"2024-12-05T19:59:01.8484745+09:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-05T19:59:01.8484745+09:00","level":"INFO","msg":"created symlink","path":"D:\\DevWorkSpace\\YOLOV8-T1\\wandb\\offline-run-20241205_195901-xcgr7zst\\logs\\debug-core.log"}
+{"time":"2024-12-05T19:59:01.9795772+09:00","level":"INFO","msg":"created new stream","id":"xcgr7zst"}
+{"time":"2024-12-05T19:59:01.9795772+09:00","level":"INFO","msg":"stream: started","id":"xcgr7zst"}
+{"time":"2024-12-05T19:59:01.9795772+09:00","level":"INFO","msg":"handler: started","stream_id":"xcgr7zst"}
+{"time":"2024-12-05T19:59:01.9795772+09:00","level":"INFO","msg":"sender: started","stream_id":"xcgr7zst"}
+{"time":"2024-12-05T19:59:01.9795772+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"xcgr7zst"}
+{"time":"2024-12-05T19:59:01.9860054+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-05T19:59:02.4139343+09:00","level":"INFO","msg":"stream: closing","id":"xcgr7zst"}
+{"time":"2024-12-05T19:59:02.4139343+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-05T19:59:02.4139343+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-05T19:59:02.4146209+09:00","level":"INFO","msg":"handler: closed","stream_id":"xcgr7zst"}
+{"time":"2024-12-05T19:59:02.4146209+09:00","level":"INFO","msg":"sender: closed","stream_id":"xcgr7zst"}
+{"time":"2024-12-05T19:59:02.4146209+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xcgr7zst"}
+{"time":"2024-12-05T19:59:02.4146209+09:00","level":"INFO","msg":"stream: closed","id":"xcgr7zst"}

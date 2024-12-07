@@ -1,0 +1,38 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "3.12.3",
+  "startedAt": "2024-12-02T12:02:28.792524Z",
+  "program": "D:\\DevWorkSpace\\YOLOV8-T1\\test3.py",
+  "codePath": "test3.py",
+  "root": "D:\\DevWorkSpace\\YOLOV8-T1",
+  "host": "Kaeden",
+  "username": "kaeden",
+  "executable": "D:\\DevProgram\\anaconda3\\python.exe",
+  "codePathLocal": "test3.py",
+  "cpu_count": 16,
+  "cpu_count_logical": 24,
+  "gpu": "NVIDIA GeForce RTX 3060",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "431227924480",
+      "used": "60169814016"
+    }
+  },
+  "memory": {
+    "total": "34212798464"
+  },
+  "cpu": {
+    "count": 16,
+    "countLogical": 24
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3060",
+      "memoryTotal": "12884901888",
+      "cudaCores": 3584,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.6"
+}

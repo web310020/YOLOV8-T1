@@ -1,0 +1,15 @@
+{"time":"2024-12-02T19:48:33.07693+09:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-02T19:48:33.07693+09:00","level":"INFO","msg":"created symlink","path":"D:\\DevWorkSpace\\YOLOV8-T1\\wandb\\offline-run-20241202_194833-j4c5try3\\logs\\debug-core.log"}
+{"time":"2024-12-02T19:48:33.2079362+09:00","level":"INFO","msg":"created new stream","id":"j4c5try3"}
+{"time":"2024-12-02T19:48:33.2079362+09:00","level":"INFO","msg":"stream: started","id":"j4c5try3"}
+{"time":"2024-12-02T19:48:33.2079362+09:00","level":"INFO","msg":"handler: started","stream_id":"j4c5try3"}
+{"time":"2024-12-02T19:48:33.2079362+09:00","level":"INFO","msg":"sender: started","stream_id":"j4c5try3"}
+{"time":"2024-12-02T19:48:33.2079362+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"j4c5try3"}
+{"time":"2024-12-02T19:48:33.2158622+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-02T19:48:36.6268552+09:00","level":"INFO","msg":"stream: closing","id":"j4c5try3"}
+{"time":"2024-12-02T19:48:36.6268552+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-02T19:48:36.6268552+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-02T19:48:36.6275853+09:00","level":"INFO","msg":"handler: closed","stream_id":"j4c5try3"}
+{"time":"2024-12-02T19:48:36.6275853+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"j4c5try3"}
+{"time":"2024-12-02T19:48:36.6275853+09:00","level":"INFO","msg":"sender: closed","stream_id":"j4c5try3"}
+{"time":"2024-12-02T19:48:36.6275853+09:00","level":"INFO","msg":"stream: closed","id":"j4c5try3"}

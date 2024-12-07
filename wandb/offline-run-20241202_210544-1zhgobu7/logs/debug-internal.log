@@ -1,0 +1,15 @@
+{"time":"2024-12-02T21:05:44.8898871+09:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-02T21:05:44.8898871+09:00","level":"INFO","msg":"created symlink","path":"D:\\DevWorkSpace\\YOLOV8-T1\\wandb\\offline-run-20241202_210544-1zhgobu7\\logs\\debug-core.log"}
+{"time":"2024-12-02T21:05:45.0191499+09:00","level":"INFO","msg":"created new stream","id":"1zhgobu7"}
+{"time":"2024-12-02T21:05:45.0191499+09:00","level":"INFO","msg":"stream: started","id":"1zhgobu7"}
+{"time":"2024-12-02T21:05:45.0191499+09:00","level":"INFO","msg":"handler: started","stream_id":"1zhgobu7"}
+{"time":"2024-12-02T21:05:45.0191499+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"1zhgobu7"}
+{"time":"2024-12-02T21:05:45.0191499+09:00","level":"INFO","msg":"sender: started","stream_id":"1zhgobu7"}
+{"time":"2024-12-02T21:05:45.0252846+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-02T21:06:03.8452413+09:00","level":"INFO","msg":"stream: closing","id":"1zhgobu7"}
+{"time":"2024-12-02T21:06:03.8452413+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-02T21:06:03.8457555+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-02T21:06:03.8457555+09:00","level":"INFO","msg":"handler: closed","stream_id":"1zhgobu7"}
+{"time":"2024-12-02T21:06:03.8457555+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"1zhgobu7"}
+{"time":"2024-12-02T21:06:03.8457555+09:00","level":"INFO","msg":"sender: closed","stream_id":"1zhgobu7"}
+{"time":"2024-12-02T21:06:03.8462843+09:00","level":"INFO","msg":"stream: closed","id":"1zhgobu7"}

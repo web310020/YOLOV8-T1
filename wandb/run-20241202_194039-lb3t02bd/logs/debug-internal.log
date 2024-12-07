@@ -1,0 +1,19 @@
+{"time":"2024-12-02T19:40:39.4722059+09:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-02T19:40:39.4722059+09:00","level":"INFO","msg":"created symlink","path":"D:\\DevWorkSpace\\YOLOV8-T1\\wandb\\run-20241202_194039-lb3t02bd\\logs\\debug-core.log"}
+{"time":"2024-12-02T19:40:39.6178265+09:00","level":"INFO","msg":"created new stream","id":"lb3t02bd"}
+{"time":"2024-12-02T19:40:39.6178265+09:00","level":"INFO","msg":"stream: started","id":"lb3t02bd"}
+{"time":"2024-12-02T19:40:39.6178265+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"lb3t02bd"}
+{"time":"2024-12-02T19:40:39.6178265+09:00","level":"INFO","msg":"handler: started","stream_id":"lb3t02bd"}
+{"time":"2024-12-02T19:40:39.6178265+09:00","level":"INFO","msg":"sender: started","stream_id":"lb3t02bd"}
+{"time":"2024-12-02T19:40:39.9285448+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-02T19:40:40.1320945+09:00","level":"INFO","msg":"stream: closing","id":"lb3t02bd"}
+{"time":"2024-12-02T19:40:40.1325966+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-02T19:40:40.1325966+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-02T19:40:40.8436864+09:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-12-02T19:40:40.8436864+09:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-12-02T19:40:40.8436864+09:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-12-02T19:40:41.557645+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-02T19:40:41.7979144+09:00","level":"INFO","msg":"handler: closed","stream_id":"lb3t02bd"}
+{"time":"2024-12-02T19:40:41.7979144+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"lb3t02bd"}
+{"time":"2024-12-02T19:40:41.7979144+09:00","level":"INFO","msg":"sender: closed","stream_id":"lb3t02bd"}
+{"time":"2024-12-02T19:40:41.7979144+09:00","level":"INFO","msg":"stream: closed","id":"lb3t02bd"}
